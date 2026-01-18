@@ -10,12 +10,13 @@ robotics systems.
 - Understanding kinematics through hands-on experiments
 
 ## Progress
-### Day 1
+### Day 1 One-joint arm simulation (MuJoCo)
 - Set up MuJoCo on macOS
 - Built and simulated a one-joint robotic arm
 - Implemented position control to swing the arm in simulation
 
 mjpython scripts/day1_mujoco_move_joint.py
+![Day 1 MuJoCo joint motion](media/day1_mujoco_joint_motion.gif)
 
 Why this repo exists
 
